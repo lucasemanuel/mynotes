@@ -23,8 +23,8 @@ Aplicativo simples de anotações, desenvolvida com o react (front-end) e larave
 
 ## Install <a name = "install"></a>
 
-- [Back-end](https://github.com/lucasemanuel/mynotes-back-end)
-- [Front-end](https://github.com/lucasemanuel/mynotes-front-end)
+- [Back-end](https://github.com/lucasemanuel/mynotes-back-end#install-)
+- [Front-end](https://github.com/lucasemanuel/mynotes-front-end#install)
 
 ## Authors <a name = "authors"></a>
 
