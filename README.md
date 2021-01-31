@@ -5,9 +5,9 @@ Aplicativo simples de anotações, desenvolvida com o react (front-end) e larave
 ## Screenshots <a name = "screenshots"></a>
 
 <p align="center" >
-    <img src="https://user-images.githubusercontent.com/31216249/106373504-f3978f00-6358-11eb-8fc7-3da3f22a4132.png" alt="screenshot 1" height=400/>
-    <img src="https://user-images.githubusercontent.com/31216249/106373506-f4c8bc00-6358-11eb-8a62-fa208262ef5d.png" alt="screenshot 2" height=400/>
-    <img src="https://user-images.githubusercontent.com/31216249/106373508-f4c8bc00-6358-11eb-9f05-c551b88e1913.png" alt="screenshot 3" height=400/>
+    <img src="https://user-images.githubusercontent.com/31216249/106373504-f3978f00-6358-11eb-8fc7-3da3f22a4132.png" alt="screenshot 1" height="80%" width="80%"/>
+    <img src="https://user-images.githubusercontent.com/31216249/106373506-f4c8bc00-6358-11eb-8a62-fa208262ef5d.png" alt="screenshot 2" height="80%" width="80%"/>
+    <img src="https://user-images.githubusercontent.com/31216249/106373508-f4c8bc00-6358-11eb-9f05-c551b88e1913.png" alt="screenshot 3" height="80%" width="80%"/>
 </p>
 
 ## Features <a name = "features"></a>
@@ -23,8 +23,8 @@ Aplicativo simples de anotações, desenvolvida com o react (front-end) e larave
 
 ## Install <a name = "install"></a>
 
-- [Back-end](https://github.com/lucasemanuel/mynotes-back-end#Install)
-- [Front-end](https://github.com/lucasemanuel/mynotes-front-end#install)
+- [Back-end](https://github.com/lucasemanuel/mynotes-back-end)
+- [Front-end](https://github.com/lucasemanuel/mynotes-front-end)
 
 ## Authors <a name = "authors"></a>
 
