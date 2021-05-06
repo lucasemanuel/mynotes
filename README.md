@@ -1,7 +1,7 @@
 # MyNotes
 > Sistema para gerenciar anotações, desenvolvida com o [Vue](https://vuejs.org/) (front-end) e [Laravel](https://laravel.com/) (back-end).
 
-## Funcionalidades <a name = "features"></a>
+## Features <a name = "features"></a>
 
 - CRUD das notas;
 - Validação de formulários;
@@ -22,7 +22,7 @@
 
 
 ## Repositórios <a name = "install"></a>
-Link dos repositórios com guia de instação.
+Link dos repositórios com guia de instalação.
 
 - [Back-end](https://github.com/lucasemanuel/mynotes-back-end)
 - [Front-end](https://github.com/lucasemanuel/mynotes-vue)
